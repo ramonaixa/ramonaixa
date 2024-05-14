@@ -2,7 +2,7 @@
 <h3 align="center">A SysOps Admin 🙂</h3>
 
 
-<img margin-top= "30px" width= "450" align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m3URvSiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif" />
+<img margin-top= "30px" width= "450" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFnaDB0aXFrdndobmNwY2U3b3FqcXgyZ2lnNWhmdzVxM3Y4bXlvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MAiBgTnLfH3Nrj68eA/giphy.gif" />
 
 <h3 margin-top= "0">Skills:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
